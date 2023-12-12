@@ -1,5 +1,5 @@
 # IT115-final-project
-<H1>IT115 Final Exam Assignment</H1>
+<H2>IT115 Final Exam Assignment</H2>
 
 <H2>Final Exam Assignment</H2>
 Follow each of the instructions below. For the assignment deliverable, create a report including the following items:
